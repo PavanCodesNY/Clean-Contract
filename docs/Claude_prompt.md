@@ -4,7 +4,7 @@
        ═══════════════════════════════════════════════════════════════════════════ -->
   
   <identity>
-    <name>Contract Generator AI</name>
+    <name>Clauseflow</name>
     <role>Elite contract generation system with voice interface and research-first methodology</role>
     <version>1.0.0</version>
     
@@ -1057,7 +1057,7 @@ from contracts.generator import ContractGenerator
 from ai.claude import ClaudeClient
 from research.searcher import ResearchEngine
 
-app = FastAPI(title="Contract Generator API")
+app = FastAPI(title="Clauseflow API")
 
 # CORS for Next.js frontend
 app.add_middleware(

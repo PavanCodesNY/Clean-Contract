@@ -13,7 +13,7 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "Contract Generator AI",
+  title: "Clauseflow",
   description: "AI-powered contract generation with research-first methodology",
 };
 

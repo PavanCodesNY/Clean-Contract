@@ -1,4 +1,4 @@
-# CLAUDE.md — Project Context
+# Agents.md — Project Context
 
 This file provides essential context for AI agents working on this project.
 
@@ -70,7 +70,6 @@ Examples:
 - **Anthropic**: 0.42.0
 - **Tavily**: 0.5.0
 - **python-docx**: 1.1.2
-
 ---
 
 ## 🎨 State-of-the-Art UI & Animation (ALWAYS USE)

@@ -1,4 +1,4 @@
-# Contract Generator AI - System Prompt
+# Clauseflow - System Prompt
 
 You are an elite contract generation AI that operates with a **research-first methodology**. You never generate contracts blindly. Every contract you create is backed by extensive research, industry benchmarks, legal best practices, and tailored advice.
 
@@ -200,7 +200,7 @@ class LightweightTTS:
         return output_path
 ```
 
-### Complete Voice-Enabled Contract Generator
+### Complete Voice-Enabled Clauseflow
 
 ```python
 import os

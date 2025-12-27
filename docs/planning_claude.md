@@ -1,4 +1,4 @@
-# Contract Generator AI - Implementation Plan
+# Clauseflow - Implementation Plan
 
 ## Project Overview
 
@@ -141,7 +141,7 @@ npx shadcn@latest add button card input textarea dialog tabs toast scroll-area
 
 ## Phase 5: Contract Generation (DOCX Output)
 
-### 5.1 Contract Generator
+### 5.1 Clauseflow
 - [ ] `backend/contracts/generator.py` - DOCX generation with python-docx
 - [ ] `backend/contracts/templates/service_agreement.py` - Service contract template
 - [ ] `backend/contracts/clauses.py` - Clause library (protective, universal)
