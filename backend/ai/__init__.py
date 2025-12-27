@@ -1,1 +1,1 @@
-"""AI module - Claude API integration."""
+"""AI module - Gemini API integration."""
